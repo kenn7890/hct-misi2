@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "15815ad4-ba81-11ed-afa1-0242ac120002"
+            "value": "8ba658cf-f010-4518-a8a2-dfbe47e59854"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Lisehi/mytro2/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/kenn7890/hct-misi2/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Lisehi/mytro2/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/kenn7890/hct-misi2/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/Lisehi/mytro2/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/kenn7890/hct-misi2/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lisehi/mytro2",
-    "repository": "https://github.com/Lisehi/mytro2",
+    "website": "https://github.com/kenn7890/hct-misi2",
+    "repository": "https://github.com/kenn7890/hct-misi2",
     "stack": "container"
 }
